@@ -1,0 +1,7 @@
+@media only screen and (max-width:768px){.nav,navbar-nav{float:left}}@media only screen and (max-width:480px){.nav,navbar-nav{float:left}}@media only screen and (max-width:320px){.nav,navbar-nav{float:left}}
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 568px) { 
+    .all-background{  overflow: hidden;} 
+ }
+ .all-background{overflow: hidden;}
